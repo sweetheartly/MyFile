@@ -1,8 +1,0 @@
-```js
-
-public class Solution {
-	public String replaceSpace(StringBuffer str) {
-	
-	} 
-}
-```
