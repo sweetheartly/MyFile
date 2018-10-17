@@ -1,3 +1,11 @@
 123123123
 1231231
 12312123
+this is myTest
+
+I will add a file
+
+It's sweet.txt
+
+
+ok,it's merge!
